@@ -1,0 +1,1 @@
+Model the structure of the system using a UML class diagram.
